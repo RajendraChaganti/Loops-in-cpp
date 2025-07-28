@@ -1,6 +1,6 @@
 # Loops-in-cpp
 
-## Aim: To study and implement different types of loops like for while nested for , etc in C++.
+## Aim: To study and implement different types of loops like for , while , nested for , etc in C++.
 
 ## Tools: GNU g++ compiler (for local execution)Any code editor or an Online C++ Compiler)
 
